@@ -19,7 +19,7 @@
 <img src="https://img.shields.io/badge/Portfolio-6D28D9?style=for-the-badge&logo=googlechrome&logoColor=white" />
 </a>
 -->
-<a href="www.linkedin.com/in/pulkit-gupta-294a6632b">
+<a href="www.linkedin.com/in/pulkit-gupta">
 <img src="https://img.shields.io/badge/LinkedIn-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="mailto:pulkitg183@gmail.com">
