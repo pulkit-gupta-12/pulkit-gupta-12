@@ -19,7 +19,7 @@
 <img src="https://img.shields.io/badge/Portfolio-6D28D9?style=for-the-badge&logo=googlechrome&logoColor=white" />
 </a>
 -->
-<a href="www.linkedin.com/in/pulkit-gupta-294a6632b">
+<a href="https://www.linkedin.com/in/pulkit-gupta-294a6632b">
 <img src="https://img.shields.io/badge/LinkedIn-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="mailto:pulkitg183@gmail.com">
@@ -465,7 +465,7 @@ Open To:
 <a href="mailto:pulkitg183@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-<a href="www.linkedin.com/in/pulkit-gupta-294a6632b">
+<a href="https://www.linkedin.com/in/pulkit-gupta-294a6632b">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://github.com/pulkit-gupta-12">
