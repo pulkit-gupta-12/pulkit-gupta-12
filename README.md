@@ -1,4 +1,3 @@
-```markdown
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:312e81,50:6d28d9,100:4c1d95&height=220&section=header&text=ASPIRING%20SOFTWARE%20ENGINEER&fontSize=38&fontColor=ffffff&fontAlignY=38&animation=twinkling&desc=Building%20practical%20products%20with%20full-stack%20engineering&descAlignY=60&descSize=15" width="100%" />
@@ -486,4 +485,3 @@ Open To:
 <sub>“Build with curiosity, lead with ownership, and improve with every iteration.”</sub>
 
 </div>
-```
