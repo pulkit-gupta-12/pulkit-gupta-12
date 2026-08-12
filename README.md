@@ -14,25 +14,26 @@
 <img src="https://img.shields.io/badge/India-4338CA?style=for-the-badge&logo=googlemaps&logoColor=white" />
 
 <br /><br />
-
+<!--
 <a href="https://your-portfolio.example.com">
 <img src="https://img.shields.io/badge/Portfolio-6D28D9?style=for-the-badge&logo=googlechrome&logoColor=white" />
 </a>
-<a href="https://www.linkedin.com/in/your-linkedin-username">
+-->
+<a href="www.linkedin.com/in/pulkit-gupta-294a6632b">
 <img src="https://img.shields.io/badge/LinkedIn-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="mailto:your.email@example.com">
+<a href="mailto:pulkitg183@gmail.com">
 <img src="https://img.shields.io/badge/Email-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-<a href="https://github.com/your-github-username">
+<a href="https://github.com/pulkit-gupta-12">
 <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 <br /><br />
 
-<img src="https://komarev.com/ghpvc/?username=your-github-username&label=PROFILE%20VIEWS&color=6D28D9&style=for-the-badge" alt="Profile views" />
-<img src="https://img.shields.io/github/followers/your-github-username?label=FOLLOWERS&style=for-the-badge&color=4F46E5&logo=github" alt="Followers" />
-<img src="https://img.shields.io/github/stars/your-github-username?label=STARS&style=for-the-badge&color=7C3AED&logo=github" alt="Stars" />
+<img src="https://komarev.com/ghpvc/?username=pulkit-gupta-12&label=PROFILE%20VIEWS&color=6D28D9&style=for-the-badge" alt="Profile views" />
+<img src="https://img.shields.io/github/followers/pulkit-gupta-12?label=FOLLOWERS&style=for-the-badge&color=4F46E5&logo=github" alt="Followers" />
+<img src="https://img.shields.io/github/stars/pulkit-gupta-12?label=STARS&style=for-the-badge&color=7C3AED&logo=github" alt="Stars" />
 
 </div>
 
@@ -171,7 +172,7 @@ A full-stack web platform developed for the Spiritual Research Cell at my colleg
 | Administration | Dashboard allowing administrators to manage website content and perform CRUD operations without editing source code |
 | Users | Students, administrators, and organization members |
 | Current Status | Functional platform currently being optimized and strengthened |
-| Repository | [View Repository](https://github.com/your-github-username/spiritual-research-cell-platform) |
+| Repository | [View Repository](https://github.com/pulkit-gupta-12/SRC-Project-Final) |
 
 ### Key Contributions
 
@@ -200,7 +201,7 @@ Eco-Learn is a gamified environmental education platform developed by Team Eco-R
 | Gamification | Points, badges, titles, leaderboards, and action-based engagement |
 | Users | Students, teachers, eco-clubs, NGOs, and administrators |
 | Achievement | Ranked 10th among 250+ participating teams and received a consolation prize |
-| Repository | [View Repository](https://github.com/your-github-username/eco-learn) |
+| Repository | [View Repository](https://github.com/pulkit-gupta-12/Eco_Learn) |
 
 ### Key Contributions
 
@@ -348,7 +349,7 @@ Currently strengthening knowledge in:
 - Java programming.
 
 ---
-
+<!--
 ## Coding Profiles
 
 <div align="center">
@@ -367,19 +368,19 @@ Currently strengthening knowledge in:
 </a>
 
 </div>
-
+-->
 ---
 
 ## GitHub Analytics
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=A78BFA&text_color=C4B5FD&icon_color=8B5CF6" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&hide_border=true&langs_count=8&bg_color=0D1117&title_color=A78BFA&text_color=C4B5FD" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=pulkit-gupta-12&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=A78BFA&text_color=C4B5FD&icon_color=8B5CF6" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pulkit-gupta-12&layout=compact&hide_border=true&langs_count=8&bg_color=0D1117&title_color=A78BFA&text_color=C4B5FD" />
 
 <br />
 
-<img src="https://streak-stats.demolab.com?user=your-github-username&theme=dark&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=C4B5FD&sideLabels=C4B5FD&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=94A3B8" />
+<img src="https://streak-stats.demolab.com?user=pulkit-gupta-12&theme=dark&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=C4B5FD&sideLabels=C4B5FD&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=94A3B8" />
 
 </div>
 
@@ -389,7 +390,7 @@ Currently strengthening knowledge in:
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=your-github-username&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&column=7" />
+<img src="https://github-profile-trophy.vercel.app/?username=pulkit-gupta-12&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&column=7" />
 
 </div>
 
@@ -399,7 +400,7 @@ Currently strengthening knowledge in:
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=your-github-username&bg_color=0D1117&color=C4B5FD&line=8B5CF6&point=A78BFA&area=true&hide_border=true" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=pulkit-gupta-12&bg_color=0D1117&color=C4B5FD&line=8B5CF6&point=A78BFA&area=true&hide_border=true" width="100%" />
 
 </div>
 
@@ -409,7 +410,7 @@ Currently strengthening knowledge in:
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/your-github-username/your-github-username/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation" />
+<img src="https://raw.githubusercontent.com/pulkit-gupta-12/your-github-username/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation" />
 
 </div>
 
@@ -461,19 +462,20 @@ Open To:
 
 <div align="center">
 
-<a href="mailto:your.email@example.com">
+<a href="mailto:pulkitg183@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-<a href="https://www.linkedin.com/in/your-linkedin-username">
+<a href="www.linkedin.com/in/pulkit-gupta-294a6632b">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="https://github.com/your-github-username">
+<a href="https://github.com/pulkit-gupta-12">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
+<!--
 <a href="https://your-portfolio.example.com">
 <img src="https://img.shields.io/badge/Portfolio-6D28D9?style=for-the-badge&logo=googlechrome&logoColor=white" />
 </a>
-
+-->
 </div>
 
 ---
