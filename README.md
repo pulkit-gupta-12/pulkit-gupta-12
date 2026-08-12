@@ -410,7 +410,7 @@ Currently strengthening knowledge in:
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/pulkit-gupta-12/your-github-username/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation" />
+<img src="https://raw.githubusercontent.com/pulkit-gupta-12/pulkit-gupta-12/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation" />
 
 </div>
 
